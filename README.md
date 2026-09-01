@@ -4,8 +4,6 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript.
 It showcases who I am, what I do, and some of the projects I've worked on.
 
 
-🔗 Live Site: http://127.0.0.1:5500/index.html
-
 📁 Sections Included :- 
 
 🧑‍💻 About Me
